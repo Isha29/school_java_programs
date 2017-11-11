@@ -1,0 +1,5 @@
+Shop Inventory Amount: 1000
+Product code: 1
+Product name: 1
+Quantity: 2
+Product code: 20

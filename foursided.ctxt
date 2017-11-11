@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=foursided(int)
+comment1.params=length\ breadth
+comment1.target=foursided(int,\ int)
+comment2.params=
+comment2.target=int\ getArea()
+comment3.params=length\ breadth
+comment3.target=void\ main(int,\ int)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ runs\ out\ balls
+comment0.target=Batsman(java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getRunsScored()
+comment3.params=
+comment3.target=int\ getBallsFaced()
+comment4.params=
+comment4.target=boolean\ isOut()
+numComments=5

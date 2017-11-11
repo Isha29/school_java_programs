@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ getAreaOfSquare(int)
+comment1.params=l\ b
+comment1.target=void\ getPerimeterOfRectangle(int,\ int)
+numComments=2

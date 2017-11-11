@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=void\ addJobs()\r\n\ \ \ {\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ this.create();\r\n\ \ \ \ }\r\n\ \ \ void\ removeJobs()\r\n\ \ \ {\r\n\ \ \ \ \ \ \ this.removeLast();\ \ \ \ \ \ \r\n}
+numComments=1

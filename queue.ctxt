@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=queue(int)
+comment1.params=
+comment1.target=boolean\ isOverflow()
+comment2.params=
+comment2.target=void\ showOverflow()
+comment3.params=
+comment3.target=void\ insert()
+comment4.params=
+comment4.target=boolean\ isUnderflow()
+comment5.params=
+comment5.target=void\ showUnderflow()
+comment6.params=
+comment6.target=void\ delete()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=void\ clear()
+numComments=9

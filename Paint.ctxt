@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=colourName
+comment0.target=void\ Colour(java.lang.String)
+comment1.params=sqft
+comment1.target=int\ Area(int)
+comment2.params=ans
+comment2.target=boolean\ hasTexture(boolean)
+numComments=3

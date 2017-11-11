@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=row
+comment0.target=Mirror(int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=A
+comment2.target=int[][]\ getMirrorImage(int[][])
+comment3.params=A
+comment3.target=void\ displayArray(int[][])
+comment4.params=
+comment4.target=boolean\ isValid()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

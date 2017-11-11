@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Duplicate(int)
+comment1.params=n
+comment1.target=void\ readList(int)
+comment2.params=
+comment2.target=int\ PackList()
+comment3.params=
+comment3.target=void\ displayList()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

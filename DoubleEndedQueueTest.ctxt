@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=node3()
+comment1.params=d\ n
+comment1.target=node3(int,\ node3)
+comment2.params=n
+comment2.target=void\ setLink(node3)
+comment2.text=Function\ to\ set\ link\ to\ next\ node3
+comment3.params=d
+comment3.target=void\ setData(int)
+comment3.text=Function\ to\ set\ data\ to\ current\ node3
+comment4.params=
+comment4.target=node3\ getLink()
+comment4.text=Function\ to\ get\ link\ to\ next\ node3
+comment5.params=
+comment5.target=int\ getData()
+comment5.text=Function\ to\ get\ data\ from\ current\ node3
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

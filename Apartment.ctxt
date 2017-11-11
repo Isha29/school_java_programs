@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rooms\ area
+comment0.target=Apartment(int,\ int)
+comment1.params=colourName
+comment1.target=void\ Colour(java.lang.String)
+comment2.params=sqft
+comment2.target=int\ Area(int)
+comment3.params=ans
+comment3.target=boolean\ hasTexture(boolean)
+comment4.params=
+comment4.target=void\ display()
+numComments=5

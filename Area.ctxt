@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c\ d
+comment0.target=Perimeter(double,\ double)
+comment1.params=
+comment1.target=double\ Calculate()
+comment2.params=
+comment2.target=void\ show()
+comment3.params=h\ a\ b
+comment3.target=Area(double,\ double,\ double)
+comment4.params=
+comment4.target=void\ doArea()
+comment5.params=
+comment5.target=void\ show()
+numComments=6

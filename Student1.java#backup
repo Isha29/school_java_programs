@@ -1,0 +1,37 @@
+import java.util.Scanner;
+class Student1
+{
+   String name[],sex[];
+   int age,number;
+   Scanner sc=new Scanner(System.in);
+   void inpDetails1()
+   {
+       System.out.println("Enter the  number of students");
+       number=sc.nextInt();
+       name=new String[number];
+       sex=new String[number];  
+       System.out.println("Enter the name and sex of students");
+       for(int i=0;i<number;i++)
+       {
+          name[i]=sc.next();
+          sex[i]=sc.next();
+         /* if(sex[i]!="Female" || sex[i]!="Male")
+          {
+              System.out.println("Wrong input");              
+            
+        }*/
+       }
+       System.out.println("Enetr the age");
+       age=sc.nextInt();
+    }
+    void show()
+    {
+        Student1 obj=new Student1();
+        obj.inpDetails1();
+        for(int i=0;i<number;i++)
+        {
+            System.out.println(name[i]+" "+sex[i]);
+        }
+        System.out.println("The age of the students are :");
+    }
+}

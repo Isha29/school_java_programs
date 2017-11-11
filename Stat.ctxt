@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nn
+comment0.target=Stat(int)
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=int\ mean()
+comment3.params=
+comment3.target=void\ dev()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

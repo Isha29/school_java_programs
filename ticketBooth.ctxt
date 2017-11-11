@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ticketBooth()
+comment1.params=price
+comment1.target=void\ setTicketPrice(int)
+comment2.params=
+comment2.target=int\ getTicketPrice()
+comment3.params=
+comment3.target=int\ visitCounter()
+comment4.params=
+comment4.target=int\ buyTicket()
+comment5.params=
+comment5.target=void\ display()
+numComments=6

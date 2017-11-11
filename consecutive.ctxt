@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=consecutive()
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=
+comment2.target=int[]\ getPrimeArray()
+comment3.params=a
+comment3.target=int[]\ getDifference(int[])
+comment4.params=a\ b
+comment4.target=void\ display(int[],\ int[])
+comment5.params=
+comment5.target=void\ main()
+numComments=6

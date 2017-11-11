@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=rack()
+comment1.params=nx
+comment1.target=rack(int)
+comment2.params=
+comment2.target=boolean\ checkOverflow()
+comment3.params=
+comment3.target=void\ putTheBook()
+comment4.params=
+comment4.target=boolean\ underflow()
+comment5.params=
+comment5.target=void\ dispList()
+comment6.params=
+comment6.target=boolean\ ifEmpty()
+comment7.params=
+comment7.target=void\ removeTheBook()
+numComments=8

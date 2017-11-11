@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Loan()
+comment1.params=
+comment1.target=void\ getdata()
+comment2.params=
+comment2.target=void\ getRate()
+comment3.params=
+comment3.target=void\ calculate()
+comment4.params=
+comment4.target=void\ display()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=FileName
+comment0.target=Input(java.lang.String)
+comment1.params=FileName
+comment1.target=void\ create(java.lang.String)
+comment2.params=
+comment2.target=void\ read()
+numComments=3

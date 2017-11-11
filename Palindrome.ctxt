@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Palindrome(java.lang.String)
+comment1.params=
+comment1.target=boolean\ isUpperCase()
+comment2.params=st
+comment2.target=boolean\ isPalindromicWord(java.lang.String)
+comment3.params=
+comment3.target=void\ displayPalindrome()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
