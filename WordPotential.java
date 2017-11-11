@@ -8,16 +8,12 @@
 public class WordPotential
 {
     // instance variables - replace the example below with your own
-    private int x;
+   
 
     /**
      * Constructor for objects of class WordPotential
      */
-    public WordPotential()
-    {
-        // initialise instance variables
-        x = 0;
-    }
+    
 
     /**
      * An example of a method - replace this comment with your own
@@ -25,9 +21,12 @@ public class WordPotential
      * @param  y   a sample parameter for a method
      * @return     the sum of x and y 
      */
-    public int sampleMethod(int y)
+    int vakueOfAscii(char ch)
     {
         // put your code here
-        return x + y;
+        if(Character.isUpperCase(ch))
+        return ((int)ch-64);
+        else
+        return ((int)ch-96);
     }
 }
