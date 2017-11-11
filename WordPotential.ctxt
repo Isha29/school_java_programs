@@ -1,5 +1,15 @@
 #BlueJ class context
-comment0.params=ch
-comment0.target=int\ vakueOfAscii(char)
-comment0.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
-numComments=1
+comment0.params=
+comment0.target=void\ input()
+comment1.params=ch
+comment1.target=int\ valueOfAscii(char)
+comment1.text=\r\nreturns\ the\ modified\ ascii\ value\ of\ the\ given\ character\r\n
+comment2.params=st
+comment2.target=int\ encryptWord(java.lang.String)
+comment2.text=\r\n\ returns\ the\ potential\ of\ each\ word\ of\ sentence\r\n
+comment3.params=
+comment3.target=void\ DisplayEncryptSentence()
+comment3.text=\r\n\ displays\ potential\ of\ every\ word\ in\ the\ sentence\r\n
+comment4.params=
+comment4.target=void\ main()
+numComments=5
